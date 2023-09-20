@@ -14,7 +14,7 @@
 #include <soc/soc.h>
 #include <soc/rtc_cntl_reg.h>
 
-#include "secrets.h" //be sure to create this file within the src/ directory and populate the following variables:
+#include "secrets.h" //be sure to create this file within the src/ directory and populate the following lines:
 //const char *ssid = "";      //WiFi SSID;
 //const char *password = "";  //WiFi SSID passkey;
 //const char *host = "";      //Weather API host
