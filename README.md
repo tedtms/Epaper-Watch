@@ -1,10 +1,13 @@
 
-<h1 align = "center">Ted's Epaper Watch</h1>
+<h1 align = "center">OpenWatch</h1>
+
+<img align="right" height="500" src="assets/watch1.jpg">
 
 This project is my custom modification of LILYGO's stock example firmware for the [LILYGO T-Wrist E-paper 1.54in Display](https://www.lilygo.cc/products/t-wrist-e-paper-1-54-inch-display?variant=42405749948597).
-I was also inspired to do this project in the first place by [qewer33's qpaperOS project](https://github.com/qewer33/qpaperOS). However, I found the LILYGO firmware to be an easier place to start making my own modiications, so I forked that project instead.
+I was also inspired to do this project in the first place by [qewer33's qpaperOS project](https://github.com/qewer33/qpaperOS). However, I found the LILYGO firmware to be an easier place to start making my own modiications, so I forked that project instead. 
 
-<b>Disclaimer:</b> I am an absolute amateur and by <i>no</i> means an actual developer. All of my modifications to this firmware have been done by reverse-engineering what LILYGO provided and performing lots of trial and error. Things will be wrong, or unoptimized, or both; offers to contribute to the project to improve it are absolutely welcome but complaint issues will be summarily deleted.
+> <b>DISCLAIMER:</b>
+> I am an absolute amateur and by <i>no</i> means an actual developer. All of my modifications to this firmware have been done by reverse-engineering what LILYGO provided and performing lots of trial and error. Things will be wrong, or unoptimized, or both; offers to contribute to the project to improve it are absolutely welcome but complaint issues will be summarily deleted.
 
 --------------------------------------
 
